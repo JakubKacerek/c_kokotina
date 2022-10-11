@@ -1,0 +1,3 @@
+C:/Users/Adam/Documents/TUL/2. ročník - zimní semestr/Programování v C-C++/2_cviceni/cmake-build-debug/CMakeFiles/2_cviceni.dir
+C:/Users/Adam/Documents/TUL/2. ročník - zimní semestr/Programování v C-C++/2_cviceni/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Adam/Documents/TUL/2. ročník - zimní semestr/Programování v C-C++/2_cviceni/cmake-build-debug/CMakeFiles/rebuild_cache.dir

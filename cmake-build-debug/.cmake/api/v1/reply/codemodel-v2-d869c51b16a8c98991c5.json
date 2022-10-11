@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2_cviceni",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2_cviceni::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2_cviceni-Debug-ea7504de17783c96d4f9.json",
+					"name" : "2_cviceni",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Adam/Documents/TUL/2. ro\u010dn\u00edk - zimn\u00ed semestr/Programov\u00e1n\u00ed v C-C++/2_cviceni/cmake-build-debug",
+		"source" : "C:/Users/Adam/Documents/TUL/2. ro\u010dn\u00edk - zimn\u00ed semestr/Programov\u00e1n\u00ed v C-C++/2_cviceni"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
